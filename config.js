@@ -7,7 +7,7 @@ module.exports = {
   // It should complete the sentence: Written by Andrea Liliana Griffiths ...
   shortBio: '',
   // a longer bio showing on the landing page of the blog
-  bio: `Colombian, Veteran, Latina in technology @GitHub www.andreagriffiths11.me.`,
+  bio: `Colombian, Veteran, Latina in technology @GitHub https://1111ag1111.netlify.com/`,
   author: 'Andrea Liliana Griffiths',
   githubUrl: 'https://github.com/AndreaGriffiths11/writings',
   // replace this by the url where your website will be published
